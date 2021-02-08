@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * John Mordi
+ * RockThrow.cs
+ * Assignment 2 
+ * Spawns the necessary object for rock throw
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

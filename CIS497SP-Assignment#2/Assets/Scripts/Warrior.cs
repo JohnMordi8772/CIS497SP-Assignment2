@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * John Mordi
+ * Warrior.cs
+ * Assignment 2 
+ * Presets for warrior characters
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * John Mordi
+ * Dodge.cs
+ * Assignment 2 
+ * Allows the player to dodge attacks
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

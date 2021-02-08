@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * John Mordi
+ * Rogue.cs
+ * Assignment 2 
+ * Presets for Rogue characters
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

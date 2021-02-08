@@ -1,17 +1,19 @@
-﻿using System.Collections;
+﻿/*
+ * John Mordi
+ * PlayerCharacters.cs
+ * Assignment 2 
+ * Implements necessary character behaviors and allows player to change to a desired behavior
+ * while the game is running
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public abstract class PlayerCharacters : MonoBehaviour
 {
-    public SpellAttack spellAttackbehavior { get; set; }
-    public DamageAvoidance dmgAvoidBehavior { get; set; }
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
+    public SpellAttack spellAttackbehavior;
+    public DamageAvoidance dmgAvoidBehavior;
 
     public virtual void DoAvoid()
     {

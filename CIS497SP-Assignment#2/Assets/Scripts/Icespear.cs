@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * John Mordi
+ * Icespear.cs
+ * Assignment 2 
+ * Spawns the necessary object for Icespear
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

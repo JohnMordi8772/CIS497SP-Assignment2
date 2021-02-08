@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * John Mordi
+ * SpellAttack.cs
+ * Assignment 2 
+ * Parent class for spell attacks to allow for polymorphism
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

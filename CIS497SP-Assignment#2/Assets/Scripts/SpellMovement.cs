@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * John Mordi
+ * SpellMovement.cs
+ * Assignment 2 
+ * Makes spells that are cast move and destroys their objects at a certain distance
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

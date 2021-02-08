@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * John Mordi
+ * Tank.cs
+ * Assignment 2 
+ * Presets for Tank characters
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
